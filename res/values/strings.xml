@@ -4284,4 +4284,8 @@
     <string name="usb_mass_storage_title">Mass storage</string>
     <string name="usb_mass_storage_summary">Enable USB mass storage</string>
 
+    <!-- Sinful Unicorns Modifications Start Here -->
+    <string name="sinful_links_title">Seven Deadly Sins</string>
+    <string name="jbmp_settings_title">Sinful Settings</string>
+
 </resources>
