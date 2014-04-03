@@ -4287,5 +4287,6 @@
     <!-- Sinful Unicorns Modifications Start Here -->
     <string name="sinful_links_title">Seven Deadly Sins</string>
     <string name="jbmp_settings_title">Sinful Settings</string>
-
+    <string name="pref_disable_boot_animation_title">Disable Bootanimation</string>
+    <string name="pref_disable_boot_animation_summary">For faster boot</string>
 </resources>
